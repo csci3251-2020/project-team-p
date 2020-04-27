@@ -1,4 +1,5 @@
 # Task 3: Set up readme.md
+*(assigned to KUANG, Yurui)*
 
 Please set up the file **`readme.md`** with the following contents, which will be displayed automatically when entering this repo.
 

@@ -14,12 +14,20 @@
 #Code
 
 #Contributors
+{% for member in site.stu %}
+  <p><img src="{{member.image}}">@{{ member.user }}({{ member.name }})
+  <br><blockquote>{{member.content | markdownify}}</blockquote>
+  </p>
+{% endfor %}
+
+
+
 | Issue |People      |
 |:-----:|------------|
 | 1     |            |
 | 2     |            |
 | 3     |KUANG, Yurui|
-| 4     |            |
+| 4     |TO, Ka Ho   |
 | 5     |            |
 | 6     |            |
 | 7     |            |

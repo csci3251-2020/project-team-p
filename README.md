@@ -14,9 +14,11 @@
 #Code
 
 #Contributors
+
 {% for member in site.stu %}
-  <p><img src="{{member.image}}">@{{ member.user }}({{ member.name }})
-  <br><blockquote>{{member.content | markdownify}}</blockquote>
+  <p> <img src="{{member.image}}"> - {{ member.user }}({{ member.name }})
+  <br>
+  <blockquote>{{member.content | markdownify}}</blockquote>
   </p>
 {% endfor %}
 

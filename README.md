@@ -14,14 +14,16 @@
 #Code
 
 #Contributors
-
+<ul>
 {% for member in site.stu %}
+  <li>
   <p> <img src="{{member.image}}"> - {{ member.user }}({{ member.name }})
   <br>
   <blockquote>{{member.content | markdownify}}</blockquote>
   </p>
+  </li>
 {% endfor %}
-
+</ul>
 
 
 | Issue |People      |

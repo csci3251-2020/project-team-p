@@ -28,7 +28,7 @@
 | Issue |People      |
 |:-----:|------------|
 | 1     |            |
-| 2     |            |
+| 2     |Tsoi Chak Yu|
 | 3     |KUANG, Yurui|
 | 4     |TO, Ka Ho   |
 | 5     |            |

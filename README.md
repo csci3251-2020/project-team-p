@@ -31,7 +31,7 @@
 | 2     |Tsoi Chak Yu|
 | 3     |KUANG, Yurui|
 | 4     |TO, Ka Ho   |
-| 5     |            |
+| 5     |Leung Kong Wai            |
 | 6     |            |
 | 7     |            |
 | 8     |            |

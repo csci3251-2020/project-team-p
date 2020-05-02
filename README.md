@@ -27,7 +27,7 @@
 
 | Issue |People      |
 |:-----:|------------|
-| 1     |            |
+| 1     |CHANG,Chirui|
 | 2     |Tsoi Chak Yu|
 | 3     |KUANG, Yurui|
 | 4     |TO, Ka Ho   |

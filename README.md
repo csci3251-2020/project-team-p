@@ -2,11 +2,11 @@
 
 | Things we will do             |
 | ------------------------------|
-|1.Starting isses               |
+|1.Starting issues              |
 |2.Project board                |
-|3.Set up reamdme.md            |
+|3.Set up readme.md             |
 |4.Show our team to the Internet|
-|5.Keep checkinging...          |
+|5.Keep checking...             |
 |6.Write C code                 |
 |7.Get a status badge           |
 |8.Promote our repo             |
@@ -27,11 +27,11 @@
 
 | Issue |People      |
 |:-----:|------------|
-| 1     |            |
+| 1     |CHANG,Chirui|
 | 2     |Tsoi Chak Yu|
 | 3     |KUANG, Yurui|
 | 4     |TO, Ka Ho   |
-| 5     |Leung Kong Wai            |
-| 6     |            |
+| 5     |Leung Kong Wai|
+| 6     |Yeung Cheung Nam|
 | 7     |            |
 | 8     |            |

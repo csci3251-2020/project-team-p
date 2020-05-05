@@ -33,5 +33,5 @@
 | 4     |TO, Ka Ho   |
 | 5     |Leung Kong Wai|
 | 6     |Yeung Cheung Nam|
-| 7     |            |
+| 7     |TONG Kai Tik|
 | 8     |            |

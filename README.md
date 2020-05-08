@@ -35,3 +35,6 @@
 | 6     |Yeung Cheung Nam|
 | 7     |TONG Kai Tik|
 | 8     |Yu Ka Wai     |
+
+---
+Last updated: {{ site.time }}

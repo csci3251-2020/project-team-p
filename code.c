@@ -1,3 +1,4 @@
+#include <stdio.h>
 // Your C code here
 int main(){
   int a = 1;

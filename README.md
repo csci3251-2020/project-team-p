@@ -12,6 +12,14 @@
 |8.Promote our repo             |
 
 # Code
+```c
+#include <stdio.h>
+
+int main(){
+  printf("Hello world);
+  return 0;
+}
+```
 
 # Contributors
 <ul>
